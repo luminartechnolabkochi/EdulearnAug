@@ -22,6 +22,8 @@ from django.utils.decorators import method_decorator
 
 from decouple import config
 
+#  http://127.0.0.1:8000/accounts/google/login/callback/
+#  http://localhost:8000/accounts/google/login/callback/
 
 
 
